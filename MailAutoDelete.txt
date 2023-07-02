@@ -1,0 +1,5 @@
+## Title: Mail Auto Delete
+## APIVersion: 101037
+## DependsOn: LibDebugLogger>=255
+
+Main.lua
