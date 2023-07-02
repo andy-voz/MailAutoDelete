@@ -1,7 +1,7 @@
 ## Title: Mail Auto Delete
 ## Author: Pachvara
 ## Description: A simple addon for deleting mails on collecting attachments.
-## Version: 0.0.1
+## AddOnVersion: 0.0.1
 ## APIVersion: 101037
 ## DependsOn: LibDebugLogger>=255
 
