@@ -1,4 +1,7 @@
 #!/bin/bash
 rm -rf .pack
-mkdir -p .pack
-zip .pack/MailAutoDelete.zip MailAutoDelete.txt MailAutoDelete.lua
+mkdir -p .pack/MailAutoDelete
+cp MailAutoDelete.* .pack/MailAutoDelete/
+cd .pack
+zip -r MailAutoDelete.zip MailAutoDelete
+cd ..
