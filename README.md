@@ -5,4 +5,4 @@ ESO has a mail limit in the mailbox. If you receive a lot of mail with attachmen
 
 [Download the addon](https://www.esoui.com/downloads/info3668-MailAutoDelete.html)
 
-[Support me](https://www.buymeacoffee.com/pachvara) ☕
+<a href="https://www.buymeacoffee.com/pachvara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
